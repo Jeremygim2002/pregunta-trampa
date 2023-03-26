@@ -2,7 +2,7 @@ let si = document.querySelector('#btn_si');
 
 si.addEventListener('click', ()=>{
     Swal.fire({
-        title: 'Sabia que dirias que si kbrito:3',
+        title: 'Sabia que dirias que si, prepara el iphone:3',
         showClass: {
           popup: 'animate__animated animate__fadeInDown'
         },
