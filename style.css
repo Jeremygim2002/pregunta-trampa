@@ -7,7 +7,7 @@
 }
 
 .contenedor__1 {
-    background-color: #212121;
+    background-color: #283e51;
     margin: auto;
     width: 100vw;
     height: 100vh;
@@ -27,7 +27,7 @@
     position: relative;
     width: 10em;
     height: 4em;
-    border: 3px ridge #149CEA;
+    border: 3px ridge #00dbde;
     outline: none;
     background-color: transparent;
     color: white;
@@ -42,7 +42,7 @@
     left: 3%;
     width: 95%;
     height: 40%;
-    background-color: #212121;
+    background-color: #283e51;;
     transition: .5s;
     transform-origin: center;
     position: absolute;
@@ -55,7 +55,7 @@
     left: 3%;
     width: 95%;
     height: 40%;
-    background-color: #212121;
+    background-color: #283e51;;
     transition: .5s;
     position: absolute;
 }
@@ -65,7 +65,7 @@
 }
 
 .btn:hover{
-    box-shadow: inset 0px 0px 25px #1479EA;
+    box-shadow: inset 0px 0px 25px #00dbde;
 }
 
 
