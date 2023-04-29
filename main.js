@@ -2,7 +2,7 @@ let si = document.querySelector('#btn_si');
 
 si.addEventListener('click', ()=>{
     Swal.fire({
-        title: 'Sabia que dirias que si kbrito:3',
+        title: 'Sabia que si eras chillona tontita :3',
         showClass: {
           popup: 'animate__animated animate__fadeInDown'
         },
@@ -12,7 +12,7 @@ si.addEventListener('click', ()=>{
       })
 })
 
-let no = document.querySelector('#btn_no');
+let no = document.querySelector('#btn_no'); 
 
 no.addEventListener('mouseover', ()=>{
     let randomX = parseInt(Math.random()*100);
